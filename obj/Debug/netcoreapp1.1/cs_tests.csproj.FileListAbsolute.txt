@@ -1,0 +1,11 @@
+/Users/nathan/Documents/Development/cs_tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/nathan/Documents/Development/cs_tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/nathan/Documents/Development/cs_tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/nathan/Documents/Development/cs_tests/bin/Debug/netcoreapp1.1/cs_tests.deps.json
+/Users/nathan/Documents/Development/cs_tests/bin/Debug/netcoreapp1.1/cs_tests.runtimeconfig.json
+/Users/nathan/Documents/Development/cs_tests/bin/Debug/netcoreapp1.1/cs_tests.runtimeconfig.dev.json
+/Users/nathan/Documents/Development/cs_tests/bin/Debug/netcoreapp1.1/cs_tests.dll
+/Users/nathan/Documents/Development/cs_tests/bin/Debug/netcoreapp1.1/cs_tests.pdb
+/Users/nathan/Documents/Development/cs_tests/obj/Debug/netcoreapp1.1/cs_tests.AssemblyInfo.cs
+/Users/nathan/Documents/Development/cs_tests/obj/Debug/netcoreapp1.1/cs_tests.dll
+/Users/nathan/Documents/Development/cs_tests/obj/Debug/netcoreapp1.1/cs_tests.pdb
