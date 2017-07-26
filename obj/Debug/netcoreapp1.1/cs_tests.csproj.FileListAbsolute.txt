@@ -9,3 +9,15 @@
 /Users/nathan/Documents/Development/cs_tests/obj/Debug/netcoreapp1.1/cs_tests.AssemblyInfo.cs
 /Users/nathan/Documents/Development/cs_tests/obj/Debug/netcoreapp1.1/cs_tests.dll
 /Users/nathan/Documents/Development/cs_tests/obj/Debug/netcoreapp1.1/cs_tests.pdb
+C:\Dev\c_sharp_demo\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\c_sharp_demo\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\c_sharp_demo\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\c_sharp_demo\bin\Debug\netcoreapp1.1\cs_tests.deps.json
+C:\Dev\c_sharp_demo\bin\Debug\netcoreapp1.1\cs_tests.runtimeconfig.json
+C:\Dev\c_sharp_demo\bin\Debug\netcoreapp1.1\cs_tests.runtimeconfig.dev.json
+C:\Dev\c_sharp_demo\bin\Debug\netcoreapp1.1\cs_tests.dll
+C:\Dev\c_sharp_demo\bin\Debug\netcoreapp1.1\cs_tests.pdb
+C:\Dev\c_sharp_demo\obj\Debug\netcoreapp1.1\cs_tests.csprojResolveAssemblyReference.cache
+C:\Dev\c_sharp_demo\obj\Debug\netcoreapp1.1\cs_tests.AssemblyInfo.cs
+C:\Dev\c_sharp_demo\obj\Debug\netcoreapp1.1\cs_tests.dll
+C:\Dev\c_sharp_demo\obj\Debug\netcoreapp1.1\cs_tests.pdb
